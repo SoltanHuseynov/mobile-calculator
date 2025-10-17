@@ -113,4 +113,7 @@ And it only has one page and doesn't have many function.
         
         }
    ```
+
+## 1.Download APK
+   [<img src="https://github.com/user-attachments/assets/a50513b3-dbf8-48c1-bff8-1f4215fefbb9" height=100 >](https://github.com/SoltanHuseynov/mobile-calculator/releases/download/calculator/calculator.apk)
      
